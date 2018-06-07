@@ -61,5 +61,6 @@ end
 #puts("Your shoe is as good as new!")
 
 Shoe.new("Nike")
+cobble.new("new")
 
 #learn spec/02_shoe_spec.rb

@@ -46,7 +46,7 @@ class Shoe
 
   def condition
     @condition
-    Shoe.condition == new
+    Shoe.condition = new
   end
 
   def cobble=(cobble)
